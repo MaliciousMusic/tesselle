@@ -6,8 +6,8 @@
 
 ## Pages
 
-- [Tesselle, la maison en dalles intelligentes](https://maliciousmusic.github.io/tesselle/): Une grille de dalles couvre sols, murs et plafonds et porte énergie, données et usages. Explorez la tour et composez un lieu en 3D.
-- [Fonctions : objectifs et bienfaits | Tesselle](https://maliciousmusic.github.io/tesselle/fonctions/): Sommeil, lumière, air, son, chaleur, sécurité, autonomie, hygiène : chaque fonction Tesselle, son objectif, son bienfait et ses limites.
+- [Tesselle, la maison du futur augmentée par l’IA](https://maliciousmusic.github.io/tesselle/): Une surface intelligente sur sols, murs et plafonds, pensée pour la longévité, la productivité et la sérénité. Composez votre lieu en 3D.
+- [Longévité, productivité, sérénité | Tesselle](https://maliciousmusic.github.io/tesselle/fonctions/): Sommeil, lumière, air, son, chaleur, sécurité, autonomie, hygiène : chaque fonction Tesselle, son objectif, son bienfait et ses limites.
 - [Promoteurs immobiliers | Tesselle](https://maliciousmusic.github.io/tesselle/promoteurs/): Studio, deux-pièces et 250 m² sur la même grille : l’acquéreur compose, le coût estimé suit, la pose se fait à sec.
 - [Établissements de soin | Tesselle](https://maliciousmusic.github.io/tesselle/medical/): Un étage de soins étudié en 3D : présence sans caméra, sol sensible, désinfection entre deux patients. Aucune revendication médicale.
 - [Bureaux et espaces professionnels | Tesselle](https://maliciousmusic.github.io/tesselle/professionnels/): Un plateau de seize postes qui se réaménage sans électricien : réunions, air piloté par le CO₂, acoustique et énergie.
@@ -60,16 +60,16 @@ Il permet de composer un studio, un deux-pièces, un 250 m², un plateau de bure
 
 ## Fonctions
 
-- **Mieux dormir**. Comprendre la nuit sans rien porter et sans caméra. On se réveille à la lumière, on sait ce qui a troublé la nuit, la chambre s’ajuste seule. Le radar suit souffle et mouvements à travers la peau. L’air et la lumière suivent. Bien-être seulement : aucun diagnostic.
-- **Vivre à la bonne lumière**. Suivre le jour et supprimer l’interrupteur. La lumière arrive avec vous, se réchauffe le soir et vous guide la nuit sans vous réveiller. Blancs chauds et froids variables jusqu’à la veilleuse, tactile à travers toute surface. La matière translucide de la peau reste à valider.
-- **Respirer un air connu**. Mesurer l’air pièce par pièce et agir avant de le sentir. Moins de particules quand on cuisine, moins de CO₂ quand on dort ou travaille. CO₂, particules, COV, humidité ; filtration HEPA et charbon dans l’espace derrière la dalle. La filtration ne remplace pas le renouvellement d’air du bâtiment.
-- **Entendre et voir partout**. Faire disparaître enceintes et téléviseur. Le son vient de la pièce, l’image occupe le mur quand on le veut, et plus rien quand on ne veut pas. Chaque peau vibre ; les dalles jouent ensemble sur une horloge commune. Les graves demandent des dalles dédiées.
-- **Chauffer les gens**. Mettre la chaleur là où l’on est, quand on y est. Un confort immédiat, des pièces vides qui ne consomment plus. Films infrarouges dans la peau, présence confirmée par deux indices. Complète le chauffage du bâtiment, ne le remplace pas.
-- **Être prévenu à temps**. Voir venir le feu, la fuite et l’intrusion. On est averti avant les dégâts, même absent, même si le reste du système est en panne. Détecteurs certifiés sur un circuit séparé, sentinelles derrière les dalles. Les certifications restent à obtenir.
-- **Vieillir chez soi**. Repérer une chute et une marche qui change, sans surveiller. On reste autonome plus sereinement, et les proches ne sont prévenus que si on l’a choisi. Le sol sent poids et pas, le radar confirme, la lumière guide. Aide au quotidien, pas un dispositif médical.
-- **Une salle d’eau saine**. Garder les surfaces propres et sèches sans y penser. Moins de moisissure, moins de ménage, une pièce qui se remet en état après la douche. Émail antimicrobien, lumière 405 nm en continu, UV-C pièce vide et porte fermée. Norme photobiologique IEC 62471 à respecter.
-- **Bouger et jouer**. Faire du sol une ardoise, un jeu, un coach. Les enfants dessinent par terre, les adultes s’entraînent sans équipement. Tactile à travers une peau épaisse, pixels lumineux, capteurs de charge. Précision au doigt : environ 2 mm en calcul, à mesurer sous la vraie peau.
-- **Changer d’avis**. Déplacer une fonction comme on déplace une chaise. Le lieu suit les étapes de la vie, sans travaux ni électricien. Une dalle en panne se remplace. Énergie et données à chaque nœud, identité vérifiée à la pose. L’eau et le 230 V restent posés par des équipes certifiées.
+- **Récupérer mieux**. Comprendre la nuit sans rien porter et sans caméra. On se réveille à la lumière, on sait ce qui a troublé la nuit, la chambre s’ajuste seule. Le radar suit souffle et mouvements à travers la peau. L’air et la lumière suivent. Bien-être seulement : aucun diagnostic.
+- **Respirer en clair**. Mesurer l’air pièce par pièce et agir avant de le sentir. Moins de particules quand on cuisine, moins de CO₂ quand on dort ou travaille. CO₂, particules, COV, humidité ; filtration HEPA et charbon dans l’espace derrière la dalle. La filtration ne remplace pas le renouvellement d’air du bâtiment.
+- **Autonome, chez soi**. Repérer une chute et une marche qui change, sans surveiller. On reste autonome plus sereinement, et les proches ne sont prévenus que si on l’a choisi. Le sol sent poids et pas, le radar confirme, la lumière guide. Aide au quotidien, pas un dispositif médical.
+- **Le sol devient coach**. Faire du sol une ardoise, un jeu, un coach. Les enfants dessinent par terre, les adultes s’entraînent sans équipement. Tactile à travers une peau épaisse, pixels lumineux, capteurs de charge. Précision au doigt : environ 2 mm en calcul, à mesurer sous la vraie peau.
+- **Se caler sur son rythme**. Suivre le jour et supprimer l’interrupteur. La lumière arrive avec vous, se réchauffe le soir et vous guide la nuit sans vous réveiller. Blancs chauds et froids variables jusqu’à la veilleuse, tactile à travers toute surface. La matière translucide de la peau reste à valider.
+- **Passer en immersion**. Faire disparaître enceintes et téléviseur. Le son vient de la pièce, l’image occupe le mur quand on le veut, et plus rien quand on ne veut pas. Chaque peau vibre ; les dalles jouent ensemble sur une horloge commune. Les graves demandent des dalles dédiées.
+- **Reconfigurer à volonté**. Déplacer une fonction comme on déplace une chaise. Le lieu suit les étapes de la vie, sans travaux ni électricien. Une dalle en panne se remplace. Énergie et données à chaque nœud, identité vérifiée à la pose. L’eau et le 230 V restent posés par des équipes certifiées.
+- **Un climat qui vous suit**. Mettre la chaleur là où l’on est, quand on y est. Un confort immédiat, des pièces vides qui ne consomment plus. Films infrarouges dans la peau, présence confirmée par deux indices. Complète le chauffage du bâtiment, ne le remplace pas.
+- **Un temps d’avance**. Voir venir le feu, la fuite et l’intrusion. On est averti avant les dégâts, même absent, même si le reste du système est en panne. Détecteurs certifiés sur un circuit séparé, sentinelles derrière les dalles. Les certifications restent à obtenir.
+- **L’hygiène en continu**. Garder les surfaces propres et sèches sans y penser. Moins de moisissure, moins de ménage, une pièce qui se remet en état après la douche. Émail antimicrobien, lumière 405 nm en continu, UV-C pièce vide et porte fermée. Norme photobiologique IEC 62471 à respecter.
 
 ## Lieux et coûts estimés (hypothèses ± 30 %, hors taxes, pose et marge)
 
@@ -104,8 +104,8 @@ Status (2026-11-24) : No. The project is at the design stage: circuit boards rou
 
 ## Pages
 
-- [Tesselle, the home made of smart tiles](https://maliciousmusic.github.io/tesselle/en/): A grid of tiles covers floors, walls and ceilings and carries power, data and uses. Explore the tower and compose a place in 3D.
-- [Features: goals and benefits | Tesselle](https://maliciousmusic.github.io/tesselle/en/features/): Sleep, light, air, sound, heat, safety, independence, hygiene: each Tesselle feature with its goal, benefit and limits.
+- [Tesselle, the home of the future, enhanced with AI](https://maliciousmusic.github.io/tesselle/en/): One intelligent surface across floors, walls and ceilings, designed for longevity, productivity and peace of mind. Compose yours in 3D.
+- [Longevity, productivity, peace of mind | Tesselle](https://maliciousmusic.github.io/tesselle/en/features/): Sleep, light, air, sound, heat, safety, independence, hygiene: each Tesselle feature with its goal, benefit and limits.
 - [Property developers | Tesselle](https://maliciousmusic.github.io/tesselle/en/developers/): Studio, two-room flat and 250 m² on one grid: the buyer composes, the estimated cost follows, installation is dry.
 - [Care facilities | Tesselle](https://maliciousmusic.github.io/tesselle/en/healthcare/): A care floor studied in 3D: presence without cameras, sensing floor, disinfection between patients. No medical claim.
 - [Offices and workplaces | Tesselle](https://maliciousmusic.github.io/tesselle/en/workplaces/): A sixteen-desk floor rearranged without an electrician: meetings, CO₂-driven air, acoustics and energy.
@@ -158,16 +158,16 @@ It lets you compose a studio, a two-room flat, a 250 m² apartment, an office fl
 
 ## Features
 
-- **Sleep better**. Understand the night with nothing to wear and no camera. You wake with light, you know what disturbed the night, the bedroom adjusts by itself. Radar follows breathing and movement through the skin. Air and light respond. Well-being only: no diagnosis.
-- **Live in the right light**. Follow the day and remove the switch. Light comes with you, warms up in the evening and guides you at night without waking you. Variable warm and cool whites down to a night light, touch through any surface. The translucent skin material remains to be validated.
-- **Breathe air you know**. Measure air room by room and act before you notice. Fewer particles when cooking, less CO₂ when sleeping or working. CO₂, particles, VOC, humidity; HEPA and carbon filtration in the space behind the tile. Filtration does not replace the building’s ventilation.
-- **Hear and see everywhere**. Make speakers and the television disappear. Sound comes from the room, the picture fills the wall when you want it, and nothing remains when you don’t. Each skin vibrates; tiles play together on a shared clock. Bass needs dedicated tiles.
-- **Heat people**. Put heat where people are, when they are there. Immediate comfort, empty rooms that no longer use energy. Infrared films in the skin, presence confirmed by two cues. Complements the building’s heating, does not replace it.
-- **Be warned in time**. See fire, leaks and intrusion coming. You are warned before damage, even away, even if the rest of the system is down. Certified detectors on a separate circuit, sentinels behind tiles. Certifications remain to be obtained.
-- **Age at home**. Notice a fall and a changing gait, without surveillance. You stay independent with more peace of mind, and relatives are told only if you chose it. The floor feels weight and steps, radar confirms, light guides. Daily help, not a medical device.
-- **A healthy bathroom**. Keep surfaces clean and dry without thinking. Less mould, less cleaning, a room that resets itself after the shower. Antimicrobial glaze, continuous 405 nm light, UV-C with the room empty and the door shut. Photobiological standard IEC 62471 applies.
-- **Move and play**. Turn the floor into a slate, a game, a coach. Children draw on the floor, adults train without equipment. Touch through a thick skin, light pixels, load sensors. Finger accuracy: about 2 mm in computation, to be measured under the real skin.
-- **Change your mind**. Move a function the way you move a chair. The place follows the stages of life, with no works and no electrician. A faulty tile is swapped. Power and data at every node, identity checked on docking. Water and 230 V are still installed by certified teams.
+- **Recover better**. Understand the night with nothing to wear and no camera. You wake with light, you know what disturbed the night, the bedroom adjusts by itself. Radar follows breathing and movement through the skin. Air and light respond. Well-being only: no diagnosis.
+- **Breathe by data**. Measure air room by room and act before you notice. Fewer particles when cooking, less CO₂ when sleeping or working. CO₂, particles, VOC, humidity; HEPA and carbon filtration in the space behind the tile. Filtration does not replace the building’s ventilation.
+- **Independent, at home**. Notice a fall and a changing gait, without surveillance. You stay independent with more peace of mind, and relatives are told only if you chose it. The floor feels weight and steps, radar confirms, light guides. Daily help, not a medical device.
+- **The floor becomes a coach**. Turn the floor into a slate, a game, a coach. Children draw on the floor, adults train without equipment. Touch through a thick skin, light pixels, load sensors. Finger accuracy: about 2 mm in computation, to be measured under the real skin.
+- **Sync with your rhythm**. Follow the day and remove the switch. Light comes with you, warms up in the evening and guides you at night without waking you. Variable warm and cool whites down to a night light, touch through any surface. The translucent skin material remains to be validated.
+- **Go immersive**. Make speakers and the television disappear. Sound comes from the room, the picture fills the wall when you want it, and nothing remains when you don’t. Each skin vibrates; tiles play together on a shared clock. Bass needs dedicated tiles.
+- **Reconfigure at will**. Move a function the way you move a chair. The place follows the stages of life, with no works and no electrician. A faulty tile is swapped. Power and data at every node, identity checked on docking. Water and 230 V are still installed by certified teams.
+- **Climate that follows you**. Put heat where people are, when they are there. Immediate comfort, empty rooms that no longer use energy. Infrared films in the skin, presence confirmed by two cues. Complements the building’s heating, does not replace it.
+- **One step ahead**. See fire, leaks and intrusion coming. You are warned before damage, even away, even if the rest of the system is down. Certified detectors on a separate circuit, sentinels behind tiles. Certifications remain to be obtained.
+- **Always-on hygiene**. Keep surfaces clean and dry without thinking. Less mould, less cleaning, a room that resets itself after the shower. Antimicrobial glaze, continuous 405 nm light, UV-C with the room empty and the door shut. Photobiological standard IEC 62471 applies.
 
 ## Places and estimated costs (assumptions ± 30%, excluding tax, installation and margin)
 

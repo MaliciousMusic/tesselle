@@ -1,0 +1,1 @@
+import{j as i}from"./index-ZLftNa4k.js";function a({sky:s,dark:o,off:r}){return i.jsxs("div",{className:"veil","data-off":r,style:{"--v":o?`color-mix(in oklab, ${s} 45%, #07080b)`:`color-mix(in oklab, ${s} 55%, #f3f4f2)`},"aria-hidden":"true",children:[i.jsx("i",{}),i.jsx("i",{}),i.jsx("i",{}),i.jsx("b",{}),i.jsx("u",{})]})}export{a as V};

@@ -6,8 +6,8 @@
 
 ## Pages
 
-- [Tesselle, la maison en dalles intelligentes](https://maliciousmusic.github.io/tesselle/): Une grille de dalles couvre sols, murs et plafonds et porte énergie, données et usages. Explorez la tour et composez un lieu en 3D.
-- [Fonctions : objectifs et bienfaits | Tesselle](https://maliciousmusic.github.io/tesselle/fonctions/): Sommeil, lumière, air, son, chaleur, sécurité, autonomie, hygiène : chaque fonction Tesselle, son objectif, son bienfait et ses limites.
+- [Tesselle, la maison du futur augmentée par l’IA](https://maliciousmusic.github.io/tesselle/): Une surface intelligente sur sols, murs et plafonds, pensée pour la longévité, la productivité et la sérénité. Composez votre lieu en 3D.
+- [Longévité, productivité, sérénité | Tesselle](https://maliciousmusic.github.io/tesselle/fonctions/): Sommeil, lumière, air, son, chaleur, sécurité, autonomie, hygiène : chaque fonction Tesselle, son objectif, son bienfait et ses limites.
 - [Promoteurs immobiliers | Tesselle](https://maliciousmusic.github.io/tesselle/promoteurs/): Studio, deux-pièces et 250 m² sur la même grille : l’acquéreur compose, le coût estimé suit, la pose se fait à sec.
 - [Établissements de soin | Tesselle](https://maliciousmusic.github.io/tesselle/medical/): Un étage de soins étudié en 3D : présence sans caméra, sol sensible, désinfection entre deux patients. Aucune revendication médicale.
 - [Bureaux et espaces professionnels | Tesselle](https://maliciousmusic.github.io/tesselle/professionnels/): Un plateau de seize postes qui se réaménage sans électricien : réunions, air piloté par le CO₂, acoustique et énergie.
@@ -26,8 +26,8 @@ Status (2026-11-24) : No. The project is at the design stage: circuit boards rou
 
 ## Pages
 
-- [Tesselle, the home made of smart tiles](https://maliciousmusic.github.io/tesselle/en/): A grid of tiles covers floors, walls and ceilings and carries power, data and uses. Explore the tower and compose a place in 3D.
-- [Features: goals and benefits | Tesselle](https://maliciousmusic.github.io/tesselle/en/features/): Sleep, light, air, sound, heat, safety, independence, hygiene: each Tesselle feature with its goal, benefit and limits.
+- [Tesselle, the home of the future, enhanced with AI](https://maliciousmusic.github.io/tesselle/en/): One intelligent surface across floors, walls and ceilings, designed for longevity, productivity and peace of mind. Compose yours in 3D.
+- [Longevity, productivity, peace of mind | Tesselle](https://maliciousmusic.github.io/tesselle/en/features/): Sleep, light, air, sound, heat, safety, independence, hygiene: each Tesselle feature with its goal, benefit and limits.
 - [Property developers | Tesselle](https://maliciousmusic.github.io/tesselle/en/developers/): Studio, two-room flat and 250 m² on one grid: the buyer composes, the estimated cost follows, installation is dry.
 - [Care facilities | Tesselle](https://maliciousmusic.github.io/tesselle/en/healthcare/): A care floor studied in 3D: presence without cameras, sensing floor, disinfection between patients. No medical claim.
 - [Offices and workplaces | Tesselle](https://maliciousmusic.github.io/tesselle/en/workplaces/): A sixteen-desk floor rearranged without an electrician: meetings, CO₂-driven air, acoustics and energy.

@@ -1,0 +1,1 @@
+import{E as e,a as s,b as o}from"./index-ZLftNa4k.js";const a=Object.fromEntries(e.map(r=>{const t=s(r.id);return[r.id,{proto:o(t,"proto").total,pilot:o(t,"pilot").total,series:o(t,"series").total}]}));export{a as R};
