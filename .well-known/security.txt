@@ -1,0 +1,3 @@
+Contact: mailto:contact@tesselle.app
+Expires: 2027-11-24T00:00:00Z
+Preferred-Languages: fr, en

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maliciousmusic.github.io/tesselle/sitemap.xml

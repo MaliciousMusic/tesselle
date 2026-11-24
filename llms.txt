@@ -1,0 +1,37 @@
+# Tesselle
+
+> Tesselle est un projet de surface habitable modulaire : une structure posée dans la pièce porte l’énergie en 48 V et les données, et des dalles de 500 mm s’y clipsent sur les sols, murs et plafonds. Chaque dalle peut devenir lumière, écran, enceinte, chargeur, capteur, chauffage ou purificateur.
+
+État (2026-11-24) : Non. Le projet est au stade de la conception : cartes électroniques routées, firmwares qui compilent, pièces modélisées. La première dalle physique reste à fabriquer et à mesurer.
+
+## Pages
+
+- [Tesselle, la maison en dalles intelligentes](https://maliciousmusic.github.io/tesselle/): Une grille de dalles couvre sols, murs et plafonds et porte énergie, données et usages. Explorez la tour et composez un lieu en 3D.
+- [Fonctions : objectifs et bienfaits | Tesselle](https://maliciousmusic.github.io/tesselle/fonctions/): Sommeil, lumière, air, son, chaleur, sécurité, autonomie, hygiène : chaque fonction Tesselle, son objectif, son bienfait et ses limites.
+- [Promoteurs immobiliers | Tesselle](https://maliciousmusic.github.io/tesselle/promoteurs/): Studio, deux-pièces et 250 m² sur la même grille : l’acquéreur compose, le coût estimé suit, la pose se fait à sec.
+- [Établissements de soin | Tesselle](https://maliciousmusic.github.io/tesselle/medical/): Un étage de soins étudié en 3D : présence sans caméra, sol sensible, désinfection entre deux patients. Aucune revendication médicale.
+- [Bureaux et espaces professionnels | Tesselle](https://maliciousmusic.github.io/tesselle/professionnels/): Un plateau de seize postes qui se réaménage sans électricien : réunions, air piloté par le CO₂, acoustique et énergie.
+- [Composer un lieu en 3D | Tesselle](https://maliciousmusic.github.io/tesselle/composer/): Choisissez un étage, posez la cage, les dalles, les fonctions et le mobilier. Coûts estimés et consommation se recalculent à chaque geste.
+- [Questions fréquentes | Tesselle](https://maliciousmusic.github.io/tesselle/questions/): Ce qu’est Tesselle, comment se pose une dalle, ce que coûte un lieu, la vie privée, la sécurité et l’état d’avancement.
+- [Mentions légales | Tesselle](https://maliciousmusic.github.io/tesselle/mentions-legales/): Éditeur, hébergeur, propriété intellectuelle et avertissements du site Tesselle.
+- [Confidentialité | Tesselle](https://maliciousmusic.github.io/tesselle/confidentialite/): Aucun cookie, aucune mesure d’audience, aucun formulaire : ce que le site Tesselle fait et ne fait pas de vos données.
+
+---
+
+# Tesselle
+
+> Tesselle is a modular living-surface project: a structure set inside the room carries 48 V power and data, and 500 mm tiles click onto it across floors, walls and ceilings. Each tile can become light, display, speaker, charger, sensor, heater or purifier.
+
+Status (2026-11-24) : No. The project is at the design stage: circuit boards routed, firmware compiling, parts modelled. The first physical tile remains to be built and measured.
+
+## Pages
+
+- [Tesselle, the home made of smart tiles](https://maliciousmusic.github.io/tesselle/en/): A grid of tiles covers floors, walls and ceilings and carries power, data and uses. Explore the tower and compose a place in 3D.
+- [Features: goals and benefits | Tesselle](https://maliciousmusic.github.io/tesselle/en/features/): Sleep, light, air, sound, heat, safety, independence, hygiene: each Tesselle feature with its goal, benefit and limits.
+- [Property developers | Tesselle](https://maliciousmusic.github.io/tesselle/en/developers/): Studio, two-room flat and 250 m² on one grid: the buyer composes, the estimated cost follows, installation is dry.
+- [Care facilities | Tesselle](https://maliciousmusic.github.io/tesselle/en/healthcare/): A care floor studied in 3D: presence without cameras, sensing floor, disinfection between patients. No medical claim.
+- [Offices and workplaces | Tesselle](https://maliciousmusic.github.io/tesselle/en/workplaces/): A sixteen-desk floor rearranged without an electrician: meetings, CO₂-driven air, acoustics and energy.
+- [Compose a place in 3D | Tesselle](https://maliciousmusic.github.io/tesselle/en/compose/): Pick a floor, place the cage, tiles, functions and furniture. Estimated cost and consumption update with every move.
+- [Frequently asked questions | Tesselle](https://maliciousmusic.github.io/tesselle/en/faq/): What Tesselle is, how a tile docks, what a place costs, privacy, safety and progress.
+- [Legal notice | Tesselle](https://maliciousmusic.github.io/tesselle/en/legal/): Publisher, host, intellectual property and disclaimers of the Tesselle website.
+- [Privacy | Tesselle](https://maliciousmusic.github.io/tesselle/en/privacy/): No cookies, no analytics, no forms: what the Tesselle website does and does not do with your data.

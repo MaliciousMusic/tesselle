@@ -1,0 +1,193 @@
+# Tesselle
+
+> Tesselle est un projet de surface habitable modulaire : une structure posée dans la pièce porte l’énergie en 48 V et les données, et des dalles de 500 mm s’y clipsent sur les sols, murs et plafonds. Chaque dalle peut devenir lumière, écran, enceinte, chargeur, capteur, chauffage ou purificateur.
+
+État (2026-11-24) : Non. Le projet est au stade de la conception : cartes électroniques routées, firmwares qui compilent, pièces modélisées. La première dalle physique reste à fabriquer et à mesurer.
+
+## Pages
+
+- [Tesselle, la maison en dalles intelligentes](https://maliciousmusic.github.io/tesselle/): Une grille de dalles couvre sols, murs et plafonds et porte énergie, données et usages. Explorez la tour et composez un lieu en 3D.
+- [Fonctions : objectifs et bienfaits | Tesselle](https://maliciousmusic.github.io/tesselle/fonctions/): Sommeil, lumière, air, son, chaleur, sécurité, autonomie, hygiène : chaque fonction Tesselle, son objectif, son bienfait et ses limites.
+- [Promoteurs immobiliers | Tesselle](https://maliciousmusic.github.io/tesselle/promoteurs/): Studio, deux-pièces et 250 m² sur la même grille : l’acquéreur compose, le coût estimé suit, la pose se fait à sec.
+- [Établissements de soin | Tesselle](https://maliciousmusic.github.io/tesselle/medical/): Un étage de soins étudié en 3D : présence sans caméra, sol sensible, désinfection entre deux patients. Aucune revendication médicale.
+- [Bureaux et espaces professionnels | Tesselle](https://maliciousmusic.github.io/tesselle/professionnels/): Un plateau de seize postes qui se réaménage sans électricien : réunions, air piloté par le CO₂, acoustique et énergie.
+- [Composer un lieu en 3D | Tesselle](https://maliciousmusic.github.io/tesselle/composer/): Choisissez un étage, posez la cage, les dalles, les fonctions et le mobilier. Coûts estimés et consommation se recalculent à chaque geste.
+- [Questions fréquentes | Tesselle](https://maliciousmusic.github.io/tesselle/questions/): Ce qu’est Tesselle, comment se pose une dalle, ce que coûte un lieu, la vie privée, la sécurité et l’état d’avancement.
+- [Mentions légales | Tesselle](https://maliciousmusic.github.io/tesselle/mentions-legales/): Éditeur, hébergeur, propriété intellectuelle et avertissements du site Tesselle.
+- [Confidentialité | Tesselle](https://maliciousmusic.github.io/tesselle/confidentialite/): Aucun cookie, aucune mesure d’audience, aucun formulaire : ce que le site Tesselle fait et ne fait pas de vos données.
+
+## Questions
+
+### Qu’est-ce que Tesselle ?
+
+Tesselle est un projet de surface habitable modulaire : une structure posée dans la pièce porte l’énergie en 48 V et les données, et des dalles de 500 mm s’y clipsent sur les sols, murs et plafonds. Chaque dalle peut devenir lumière, écran, enceinte, chargeur, capteur, chauffage ou purificateur.
+
+### Peut-on acheter Tesselle aujourd’hui ?
+
+Non. Le projet est au stade de la conception : cartes électroniques routées, firmwares qui compilent, pièces modélisées. La première dalle physique reste à fabriquer et à mesurer.
+
+### Combien coûte un appartement équipé ?
+
+Pour l’appartement témoin de 58 m², l’ordre de grandeur est de 150 000 € en prototype et 56 000 € en grande série, à ± 30 %, hors taxes, pose et marge. Ce sont des hypothèses de travail : la nomenclature réelle n’est pas chiffrée.
+
+### Faut-il percer les murs ?
+
+Non, c’est le principe du système : la cage est conçue pour tenir dans la pièce sans perçage, et les dalles se posent sans outil. Les grandes portées de plafond restent à valider. Tout ce qui touche l’eau et le 230 V passe par des équipes certifiées.
+
+### Y a-t-il des caméras ?
+
+Pas par défaut. La présence est donnée par un radar 60 GHz, une matrice thermique de 32 × 24 pixels et des capteurs de charge au sol, sans image identifiable.
+
+### Où vont les données de la maison ?
+
+Le système est conçu pour tout traiter sur place. Rien de brut ne sort ; le reste est conçu pour passer par une seule sortie filtrée, avec votre accord.
+
+### Que se passe-t-il si une dalle tombe en panne ?
+
+Elle est conçue pour se retirer et se remplacer sans toucher ses voisines.
+
+### Le 48 V est-il sûr ?
+
+Le 48 V relève de la très basse tension de sécurité. Le système est conçu pour n’alimenter qu’une dalle reconnue. Dans la zone de douche, la conception descend à 24 V.
+
+### Tesselle est-il un dispositif médical ?
+
+Non. Aucune fonction ne pose de diagnostic et aucun usage médical n’est revendiqué. L’étage hospitalier présenté est une étude d’implantation, non validée par un établissement.
+
+### Qu’apporte le configurateur ?
+
+Il permet de composer un studio, un deux-pièces, un 250 m², un plateau de bureaux ou un étage de soins, et d’en lire le coût estimé, la puissance, la consommation annuelle et les usages rendus possibles. La composition reste dans votre navigateur.
+
+## Fonctions
+
+- **Mieux dormir**. Comprendre la nuit sans rien porter et sans caméra. On se réveille à la lumière, on sait ce qui a troublé la nuit, la chambre s’ajuste seule. Le radar suit souffle et mouvements à travers la peau. L’air et la lumière suivent. Bien-être seulement : aucun diagnostic.
+- **Vivre à la bonne lumière**. Suivre le jour et supprimer l’interrupteur. La lumière arrive avec vous, se réchauffe le soir et vous guide la nuit sans vous réveiller. Blancs chauds et froids variables jusqu’à la veilleuse, tactile à travers toute surface. La matière translucide de la peau reste à valider.
+- **Respirer un air connu**. Mesurer l’air pièce par pièce et agir avant de le sentir. Moins de particules quand on cuisine, moins de CO₂ quand on dort ou travaille. CO₂, particules, COV, humidité ; filtration HEPA et charbon dans l’espace derrière la dalle. La filtration ne remplace pas le renouvellement d’air du bâtiment.
+- **Entendre et voir partout**. Faire disparaître enceintes et téléviseur. Le son vient de la pièce, l’image occupe le mur quand on le veut, et plus rien quand on ne veut pas. Chaque peau vibre ; les dalles jouent ensemble sur une horloge commune. Les graves demandent des dalles dédiées.
+- **Chauffer les gens**. Mettre la chaleur là où l’on est, quand on y est. Un confort immédiat, des pièces vides qui ne consomment plus. Films infrarouges dans la peau, présence confirmée par deux indices. Complète le chauffage du bâtiment, ne le remplace pas.
+- **Être prévenu à temps**. Voir venir le feu, la fuite et l’intrusion. On est averti avant les dégâts, même absent, même si le reste du système est en panne. Détecteurs certifiés sur un circuit séparé, sentinelles derrière les dalles. Les certifications restent à obtenir.
+- **Vieillir chez soi**. Repérer une chute et une marche qui change, sans surveiller. On reste autonome plus sereinement, et les proches ne sont prévenus que si on l’a choisi. Le sol sent poids et pas, le radar confirme, la lumière guide. Aide au quotidien, pas un dispositif médical.
+- **Une salle d’eau saine**. Garder les surfaces propres et sèches sans y penser. Moins de moisissure, moins de ménage, une pièce qui se remet en état après la douche. Émail antimicrobien, lumière 405 nm en continu, UV-C pièce vide et porte fermée. Norme photobiologique IEC 62471 à respecter.
+- **Bouger et jouer**. Faire du sol une ardoise, un jeu, un coach. Les enfants dessinent par terre, les adultes s’entraînent sans équipement. Tactile à travers une peau épaisse, pixels lumineux, capteurs de charge. Précision au doigt : environ 2 mm en calcul, à mesurer sous la vraie peau.
+- **Changer d’avis**. Déplacer une fonction comme on déplace une chaise. Le lieu suit les étapes de la vie, sans travaux ni électricien. Une dalle en panne se remplace. Énergie et données à chaque nœud, identité vérifiée à la pose. L’eau et le 230 V restent posés par des équipes certifiées.
+
+## Lieux et coûts estimés (hypothèses ± 30 %, hors taxes, pose et marge)
+
+- Studio (27 m²): Prototype 77 000 €, Pilote 47 000 €, Série 26 500 €
+- Appartement témoin (58 m²): Prototype 150 500 €, Pilote 96 500 €, Série 56 500 €
+- Grand appartement (238 m²): Prototype 445 000 €, Pilote 274 000 €, Série 154 000 €
+- Plateau de bureaux (292 m²): Prototype 472 500 €, Pilote 287 000 €, Série 159 000 €
+- Étage hospitalier (343 m²): Prototype 647 500 €, Pilote 391 500 €, Série 216 000 €
+
+## Avancement
+
+- 4 cartes électroniques conçues: Routées en première révision.
+- 3 firmwares qui compilent: 85 vérifications automatiques, 0 échec. Pas encore testés sur carte.
+- Pièces mécaniques modélisées: CAO paramétrique, prête pour les premiers essais.
+- Appartement complet en 3D: La maquette de cette page, sur la même grille que les pièces.
+
+## À prouver
+
+- La première dalle physique: Commander, monter, mesurer, passer en révision B.
+- Le coût réel: Chiffrer la nomenclature et faire baisser le nœud actif.
+- La portée du plafond: Calcul et essai des poutres renforcées sur 4 m, sans ancrage.
+- La peau lumineuse: Trouver la matière translucide qui ne soit pas du plastique.
+- Les certifications: Feu, électricité, CEM, radio, avis technique.
+
+---
+
+# Tesselle
+
+> Tesselle is a modular living-surface project: a structure set inside the room carries 48 V power and data, and 500 mm tiles click onto it across floors, walls and ceilings. Each tile can become light, display, speaker, charger, sensor, heater or purifier.
+
+Status (2026-11-24) : No. The project is at the design stage: circuit boards routed, firmware compiling, parts modelled. The first physical tile remains to be built and measured.
+
+## Pages
+
+- [Tesselle, the home made of smart tiles](https://maliciousmusic.github.io/tesselle/en/): A grid of tiles covers floors, walls and ceilings and carries power, data and uses. Explore the tower and compose a place in 3D.
+- [Features: goals and benefits | Tesselle](https://maliciousmusic.github.io/tesselle/en/features/): Sleep, light, air, sound, heat, safety, independence, hygiene: each Tesselle feature with its goal, benefit and limits.
+- [Property developers | Tesselle](https://maliciousmusic.github.io/tesselle/en/developers/): Studio, two-room flat and 250 m² on one grid: the buyer composes, the estimated cost follows, installation is dry.
+- [Care facilities | Tesselle](https://maliciousmusic.github.io/tesselle/en/healthcare/): A care floor studied in 3D: presence without cameras, sensing floor, disinfection between patients. No medical claim.
+- [Offices and workplaces | Tesselle](https://maliciousmusic.github.io/tesselle/en/workplaces/): A sixteen-desk floor rearranged without an electrician: meetings, CO₂-driven air, acoustics and energy.
+- [Compose a place in 3D | Tesselle](https://maliciousmusic.github.io/tesselle/en/compose/): Pick a floor, place the cage, tiles, functions and furniture. Estimated cost and consumption update with every move.
+- [Frequently asked questions | Tesselle](https://maliciousmusic.github.io/tesselle/en/faq/): What Tesselle is, how a tile docks, what a place costs, privacy, safety and progress.
+- [Legal notice | Tesselle](https://maliciousmusic.github.io/tesselle/en/legal/): Publisher, host, intellectual property and disclaimers of the Tesselle website.
+- [Privacy | Tesselle](https://maliciousmusic.github.io/tesselle/en/privacy/): No cookies, no analytics, no forms: what the Tesselle website does and does not do with your data.
+
+## Questions
+
+### What is Tesselle?
+
+Tesselle is a modular living-surface project: a structure set inside the room carries 48 V power and data, and 500 mm tiles click onto it across floors, walls and ceilings. Each tile can become light, display, speaker, charger, sensor, heater or purifier.
+
+### Can I buy Tesselle today?
+
+No. The project is at the design stage: circuit boards routed, firmware compiling, parts modelled. The first physical tile remains to be built and measured.
+
+### How much does an equipped apartment cost?
+
+For the 58 m² reference apartment, the order of magnitude is €150,000 as a prototype and €56,000 in large series, ± 30%, excluding tax, installation and margin. These are working assumptions: the real bill of materials is not costed.
+
+### Do walls need drilling?
+
+No, that is the principle of the system: the cage is designed to stand inside the room without drilling, and tiles go on without tools. Large ceiling spans remain to be validated. Anything involving water or 230 V goes through certified teams.
+
+### Are there cameras?
+
+Not by default. Presence comes from a 60 GHz radar, a 32 × 24 pixel thermal array and floor load sensors, with no identifiable image.
+
+### Where does the home’s data go?
+
+The system is designed to process everything on site. Nothing raw leaves; the rest is designed to go through a single filtered exit, with your consent.
+
+### What happens if a tile fails?
+
+It is designed to come off and be replaced without touching its neighbours.
+
+### Is 48 V safe?
+
+48 V is safety extra-low voltage. The system is designed to power only a recognised tile. In the shower zone the design drops to 24 V.
+
+### Is Tesselle a medical device?
+
+No. No function makes a diagnosis and no medical use is claimed. The hospital floor shown is a layout study, not validated by any facility.
+
+### What does the configurator do?
+
+It lets you compose a studio, a two-room flat, a 250 m² apartment, an office floor or a care floor, and read its estimated cost, power, yearly consumption and the uses it enables. Your composition stays in your browser.
+
+## Features
+
+- **Sleep better**. Understand the night with nothing to wear and no camera. You wake with light, you know what disturbed the night, the bedroom adjusts by itself. Radar follows breathing and movement through the skin. Air and light respond. Well-being only: no diagnosis.
+- **Live in the right light**. Follow the day and remove the switch. Light comes with you, warms up in the evening and guides you at night without waking you. Variable warm and cool whites down to a night light, touch through any surface. The translucent skin material remains to be validated.
+- **Breathe air you know**. Measure air room by room and act before you notice. Fewer particles when cooking, less CO₂ when sleeping or working. CO₂, particles, VOC, humidity; HEPA and carbon filtration in the space behind the tile. Filtration does not replace the building’s ventilation.
+- **Hear and see everywhere**. Make speakers and the television disappear. Sound comes from the room, the picture fills the wall when you want it, and nothing remains when you don’t. Each skin vibrates; tiles play together on a shared clock. Bass needs dedicated tiles.
+- **Heat people**. Put heat where people are, when they are there. Immediate comfort, empty rooms that no longer use energy. Infrared films in the skin, presence confirmed by two cues. Complements the building’s heating, does not replace it.
+- **Be warned in time**. See fire, leaks and intrusion coming. You are warned before damage, even away, even if the rest of the system is down. Certified detectors on a separate circuit, sentinels behind tiles. Certifications remain to be obtained.
+- **Age at home**. Notice a fall and a changing gait, without surveillance. You stay independent with more peace of mind, and relatives are told only if you chose it. The floor feels weight and steps, radar confirms, light guides. Daily help, not a medical device.
+- **A healthy bathroom**. Keep surfaces clean and dry without thinking. Less mould, less cleaning, a room that resets itself after the shower. Antimicrobial glaze, continuous 405 nm light, UV-C with the room empty and the door shut. Photobiological standard IEC 62471 applies.
+- **Move and play**. Turn the floor into a slate, a game, a coach. Children draw on the floor, adults train without equipment. Touch through a thick skin, light pixels, load sensors. Finger accuracy: about 2 mm in computation, to be measured under the real skin.
+- **Change your mind**. Move a function the way you move a chair. The place follows the stages of life, with no works and no electrician. A faulty tile is swapped. Power and data at every node, identity checked on docking. Water and 230 V are still installed by certified teams.
+
+## Places and estimated costs (assumptions ± 30%, excluding tax, installation and margin)
+
+- Studio (27 m²): Prototype €77,000, Pilot €47,000, Series €26,500
+- Reference apartment (58 m²): Prototype €150,500, Pilot €96,500, Series €56,500
+- Large apartment (238 m²): Prototype €445,000, Pilot €274,000, Series €154,000
+- Office floor (292 m²): Prototype €472,500, Pilot €287,000, Series €159,000
+- Hospital floor (343 m²): Prototype €647,500, Pilot €391,500, Series €216,000
+
+## Progress
+
+- 4 circuit boards designed: Routed as a first revision.
+- 3 firmwares that compile: 85 automatic checks, 0 failure. Not yet tested on hardware.
+- Mechanical parts modelled: Parametric CAD, ready for first trials.
+- Full apartment in 3D: The model on this page, on the same grid as the parts.
+
+## To be proven
+
+- The first physical tile: Order, assemble, measure, move to revision B.
+- The real cost: Cost the bill of materials and bring the active node down.
+- The ceiling span: Calculation and test of reinforced beams over 4 m, without anchors.
+- The luminous skin: Find the translucent material that is not plastic.
+- Certification: Fire, electrical, EMC, radio, technical approval.
