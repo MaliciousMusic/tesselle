@@ -1,0 +1,1 @@
+import{J as e,a as s,b as o}from"./index-DvouR9mL.js";const a=Object.fromEntries(e.map(r=>{const t=s(r.id);return[r.id,{proto:o(t,"proto").total,pilot:o(t,"pilot").total,series:o(t,"series").total}]}));export{a as R};
